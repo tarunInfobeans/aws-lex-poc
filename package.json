@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-lex-runtime-v2": "^3.554.0",
+    "axios": "^1.6.8",
+    "dialogflow-fulfillment": "^0.6.1",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
